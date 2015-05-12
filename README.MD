@@ -56,3 +56,13 @@ Follows similar steps as "creating models" above, but separating out testing use
 ## Downloading test output
 
 Naïve Bayes Prediction Data for Testing dataset (12MB)[https://ust-datamining.s3.amazonaws.com/nb_test_out_05_08.xlsx](https://ust-datamining.s3.amazonaws.com/nb_test_out_05_08.xlsx)Collaborative Filtering Prediction Data for Testing dataset (8MB)[https://ust-datamining.s3.amazonaws.com/cf_test_output_05_08.xlsx](https://ust-datamining.s3.amazonaws.com/cf_test_output_05_08.xlsx)Association Rule Prediction Data for Testing dataset (6MB)[https://ust-datamining.s3.amazonaws.com/ar_test_out_05_08.xlsx](https://ust-datamining.s3.amazonaws.com/ar_test_out_05_08.xlsx)
+
+## Final project calculations and analysis
+
+Excel calculations and charts for Naive Bayes located in /testing/ScenarioTesting_NaiveBayes.xlsx
+
+Excel calculations and charts for Collaborative Filtering located in /testing/ScenarioTesting_CollaborativeFiltering.xlsx
+
+Excel calculations and charts for Association Rules located in /testing/ScenarioTesting_AssociationRules.xlsx
+
+Final project metrics and charts are located in the Excel file: /testing/Metrics_FinalCompilation.xlsx
