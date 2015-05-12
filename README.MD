@@ -15,6 +15,12 @@ This document describes where to access the datasets, code scripts, and analysis
 
 All references to local directories (i.e., /code/...) refer to directories within the public GitHub repository located at : [https://github.com/jasondbaker/seis734](https://github.com/jasondbaker/seis734)
 
+Archives of the GitHub repository files (without the datasets) are available at the following locations:
+
+[https://ust-datamining.s3.amazonaws.com/SongRecommendation1.zip](https://ust-datamining.s3.amazonaws.com/SongRecommendation1.zip)
+
+[https://ust-datamining.s3.amazonaws.com/SongRecommendation2.zip](https://ust-datamining.s3.amazonaws.com/SongRecommendation2.zip)
+
 # Installing the datasets
 
 ##Download Sites:
